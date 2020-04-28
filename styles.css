@@ -1,0 +1,10 @@
+body {
+	background-color: rgb(137, 207, 240);
+	font-family: "Helvetica", sans-serif;
+}
+
+#Middle {
+	background-color: white;
+	width: 800px;
+	margin: 0 auto;
+}
